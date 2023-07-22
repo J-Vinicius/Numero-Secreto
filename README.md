@@ -6,8 +6,8 @@ Jogo simples feito em um site para reconhecer a voz e tentar adivinhar o número
 | -------------  | --- |
 | :sparkles: Nome        | **Adivinhe o número**
 | :label: Tecnologias | html, css, javascript e API
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://j-vinicius.github.io/Numero-Secreto/
+| :fire: Desafio     | https://j-vinicius.github.io/Numero-Secreto/
 
 ![](https://github.com/J-Vinicius/Numero-Secreto/assets/80431647/b55bf9ef-bfde-4c60-a289-fcc6d23a50f4#vitrinedev)
 
