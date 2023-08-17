@@ -4,7 +4,7 @@ Jogo simples feito em um site para reconhecer a voz e tentar adivinhar o número
 
 ## Vitrine.Dev
 
-| :placard:  |  |
+| :placard: Vitrine.Dev | Adivinhe o número |
 | -------------  | --- |
 | :sparkles: Nome        | **Adivinhe o número**
 | :label: Tecnologias | html, css, javascript e API
